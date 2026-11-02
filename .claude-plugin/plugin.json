@@ -1,0 +1,14 @@
+{
+  "name": "villagesql",
+  "displayName": "VillageSQL Skills",
+  "description": "Skills for VillageSQL (MySQL with extensions): build extensions end-to-end (including porting PostgreSQL extensions to MySQL) and install VillageSQL Server.",
+  "author": {
+    "name": "VillageSQL"
+  },
+  "mcpServers": {
+    "villagesql-docs": {
+      "type": "http",
+      "url": "https://villagesql.com/docs/mcp"
+    }
+  }
+}
